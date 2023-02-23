@@ -65,7 +65,7 @@ I know !!! this is a lot to type/remember on terminal.  Lets creat a shortcut or
 ```
 echo $SHELL
 ```
-> - If output is `/bin/zsh` .  Then open `.zshrc` file using nano and add the below line to it and save it.
+> - If output is `/bin/zsh` .  Then open `.zshrc` file using nano and add the below line to it and save it. If `.zshrc` doesnot exist, you can create it and add the line below to it.
 ```
 alias xanadu="ssh -R 52698:localhost:52698 <userID>@xanadu-submit-ext.cam.uchc.edu"
 ```
@@ -74,7 +74,7 @@ alias xanadu="ssh -R 52698:localhost:52698 <userID>@xanadu-submit-ext.cam.uchc.e
 alias xanadu="ssh -R 52698:localhost:52698 <userID>@xanadu-submit-ext.cam.uchc.edu"
 ```
 
-Next time you want to connect to xanadu, simply type `xanadu` in terminal and hit return and terminal will connect you to the cluster.
+Now restart your terminal.  Next time you want to connect to xanadu, simply type `xanadu` in terminal and hit return and terminal will connect you to the cluster.
 
 
 #### STEP6 (Windows Users)
@@ -117,7 +117,7 @@ You are all set.  Next time when you open putty double click `xanadu` under save
 
 Login on the cluster, mac users using shortcut `xanadu` in terminal and Windows folk by double clicking `xanadu` in putty.
 
-Navigate to folder where you have your script, here I am using a nextflow script `helloworld.nf`. Once I am in the directory I will execute
+Navigate to folder where you have your script, here I am using a nextflow script `helloworld.nf`. You should try a file that is present in your directory of interest. Once I am in the directory I will execute
 ```
 sl helloworld.nf 
 ```
