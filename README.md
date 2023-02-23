@@ -27,7 +27,7 @@ We are going to prepare our cluster/linux server/Xanadu account.  We will instal
 ```
 curl -o ./rmate https://raw.githubusercontent.com/aurora/rmate/master/rmate
 
-chmod 775 rmate
+chmod 755 rmate
 
 mv rmate sublime
 
