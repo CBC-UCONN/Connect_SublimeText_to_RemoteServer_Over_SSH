@@ -5,7 +5,7 @@ This document will help you connect your local sublime text editor to remote ser
 #### STEP1.
 > - Get sublime text (https://www.sublimetext.com/) and install on your local machine.
 > - Open sublime from your `Applications` folder/directory in Mac and for windows you can search for it.
-> - Sublime text has several plugins that can help you customise/modify it to suit your liking.  To do that you will need sublime package manager. So first we need to install sublime package control (manager). Go to **TOP MENU >Tools > command Palette** and search for **Package Control**. The moment you will type first few characters it will show you a list of options.  Please select `Package Control: Install Package`using your cursor key. As shown in ![figure](./images/PackageControl_1.png). Once selected hit RETURN on your keyboard.  
+> - Sublime text has several plugins that can help you customise/modify it to suit your liking.  To do that you will need sublime package manager. So first we need to install sublime package control (manager). Go to **TOP MENU >Tools > command Palette** and search for **Package Control**. The moment you will type first few characters it will show you a list of options.  Please select `Package Control: Install Package`using your cursor key. As shown below ![figure](./images/PackageControl_1.png). Once selected hit RETURN on your keyboard.  
 
 *NOTE: Installation progress will be at the left bottom of the opened TAB for a few moments.  In most cases installations are instant so you will not see the progress.* ![Install Progress status bar](./images/ProgressBar.png)
 
