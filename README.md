@@ -69,7 +69,7 @@ echo $SHELL
 ```
 alias xanadu="ssh -R 52698:localhost:52698 <userID>@xanadu-submit-ext.cam.uchc.edu"
 ```
-> - If output is `/bin/bash` Then open `.bash_profile` file using nano and add the below line to it and save it.
+> - If output is `/bin/bash` Then open `.bash_profile` file using nano and add the below line to it and save it. If `.bash_profile` doesnot exist, you can create it and add the line below to it.
 ```
 alias xanadu="ssh -R 52698:localhost:52698 <userID>@xanadu-submit-ext.cam.uchc.edu"
 ```
