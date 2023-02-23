@@ -115,7 +115,7 @@ You are all set.  Next time when you open putty double click `xanadu` under save
 
 ### FINAL SHOW DOWN !!!!!!
 
-Login on the cluster mac users using shortcut `xanadu` in terminal and Windows folk by double clicking `xanadu` in putty.
+Login on the cluster, mac users using shortcut `xanadu` in terminal and Windows folk by double clicking `xanadu` in putty.
 
 Navigate to folder where you have your script, here I am using a nextflow script `helloworld.nf`. Once I am in the directory I will execute
 ```
