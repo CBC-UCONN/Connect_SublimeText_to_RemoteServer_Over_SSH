@@ -1,6 +1,6 @@
 #### Guide to Connect Sublime Text to Linux Server.
 
-This document will help you connect your local sublime text editor to remote server (e.g. Xanadu UConn Health HPC).  This will enable you open your cluster scripts with all the syntax colours and other cool features in Sublime on your local machine.  When you save the changes, the changes will be saved on the cluster file. The material here is a modification of contents from this page (https://data36.com/sublime-text-data-science-remote-server/)
+This document will help you connect your local sublime text editor to remote server (e.g. Xanadu UConn Health HPC).  This will enable you to open your cluster scripts with all the syntax colours and other cool features in Sublime Text on your local machine.  When you save the changes, the changes will be saved on the cluster file. The material here is a modification of contents from this page (https://data36.com/sublime-text-data-science-remote-server/)
 
 #### STEP1.
 > - Get sublime text (https://www.sublimetext.com/) and install on your local machine.
