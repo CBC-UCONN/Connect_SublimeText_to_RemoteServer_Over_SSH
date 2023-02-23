@@ -33,7 +33,7 @@ mv rmate sublime
 
 ```
 
-> Now move to your home directory buy simply executing `cd`.  Open your `.bashprofile` (if not there create one) using nano and add the following two lines in there and **SAVE** it.
+> Now move to your home directory buy simply executing `cd`.  Open your `.bash_profile` (if not there create one) using nano and add the following two lines in there and **SAVE** it.
 ```
 export PATH=~/auzar:$PATH.   # Add to your PATH environment variable
 alias sl=~/auzar/sublime     # creates a shortname "sl" for sublime
